@@ -1,0 +1,15 @@
+{
+    "name": "gildedrose",
+    "version": "1.0.0",
+    "description": "GildedRose interview",
+    "scripts": {
+        "test": "mocha",
+        "test:coverage": "nyc mocha"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^9.1.3",
+        "nyc": "^15.1.0"
+    }
+}
